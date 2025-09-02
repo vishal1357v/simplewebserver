@@ -77,9 +77,7 @@ httpd = HTTPServer(server_address,MyServer)
 
 
 ## OUTPUT:
-<img width="474" height="193" alt="image" src="https://github.com/user-attachments/assets/0c923a95-3a21-4f8f-b965-adb055b1dc1e" />
 
-<img width="761" height="604" alt="image" src="https://github.com/user-attachments/assets/b4ea5138-5bef-446f-984d-2f465b14fcbb" />
 
 
 
