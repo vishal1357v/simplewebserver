@@ -78,6 +78,8 @@ httpd = HTTPServer(server_address,MyServer)
 
 ## OUTPUT:
 
+<img width="1152" height="142" alt="Screenshot 2025-09-02 121652" src="https://github.com/user-attachments/assets/812f51f5-1eb3-440b-8c92-f9f79253b7cf" />
+<img width="710" height="482" alt="Screenshot 2025-09-02 121819" src="https://github.com/user-attachments/assets/40934012-4e12-4ba1-9e6d-481837768840" />
 
 
 
